@@ -47,6 +47,7 @@
     <link rel="stylesheet" type="text/css" href="css/colors/purple.css" title="purple" media="screen" />
     <link rel="stylesheet" type="text/css" href="css/colors/sky-blue.css" title="sky-blue" media="screen" />
     <link rel="stylesheet" type="text/css" href="css/colors/yellow.css" title="yellow" media="screen" />
+    <link href='http://fonts.googleapis.com/css?family=Berkshire+Swash' rel='stylesheet' type='text/css'/>
 
 
     <!-- Margo JS  -->
@@ -157,10 +158,11 @@
                                 <h2 class="animated2">
                         		  <span> GENIE </span> 
                         	    </h2>
+                                
                                 <h3 class="animated3">
                             		<span>You gotta rub it if you wanna have it</span>
                             	</h3>
-                                
+                               
                                 <p><a href="#login" class=" slider login-window btn btn-system btn-large">Login</a>
                                 
 

@@ -923,9 +923,9 @@ ul.social-list li:last-child a i {
 	font-size: 36px;
 	font-weight: 300;
 	margin-top: 60px;
-	text-transform: uppercase;
     text-align: center;
     color: #F4E4B2;
+    font-family: 'Berkshire Swash';
 }
 
 .slider.btn{
@@ -979,8 +979,10 @@ ul.social-list li:last-child a i {
 .carousel .item.active .animated3 {
 	-webkit-animation: bounceInLeft 1s ease-in-out 500ms both;
 	animation: bounceInLeft 1s ease-in-out 500ms both;
+	
 
 }
+
 
 .carousel .item.active .animated4 {
 	-webkit-animation: flipInX 1s ease-in 500ms both;
