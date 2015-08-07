@@ -328,8 +328,6 @@ input[type="submit"] {
 }
 
 .dot1, .dot2 {
-	width: 60%;
-	height: 60%;
 	display: inline-block;
 	position: absolute;
 	top: 0;
@@ -339,7 +337,7 @@ input[type="submit"] {
 }
 
 .dot2 {
-	top: auto;
+	top: 19px;
 	bottom: 0px;
 	-webkit-animation-delay: -1.0s;
 	animation-delay: -1.0s;
@@ -556,10 +554,11 @@ ul.social-list li:last-child a i {
 }
 
 .navbar {
-	margin-bottom: 0;
-	background: #fff;
-	border: none;
-	border-radius: 0;
+	border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    background: #fff;
+    border-radius: 0;
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     -o-border-radius: 0;
@@ -578,10 +577,10 @@ ul.social-list li:last-child a i {
 .navbar-default .navbar-nav {
 	margin-right: 10px!important;
 	position: relative;
-	transition: all 0.4s ease-in-out;
-    -moz-transition: all 0.4s ease-in-out;
+	transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.4s ease-in-out;
-    -o-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
 }
 
 .navbar-default .navbar-nav > li {

@@ -373,4 +373,6 @@ ul.post-meta li a:hover {
 
 .dot1, .dot2 {
     background-color: #f8ba01;
+    left: 0px;
+    width: 27px;
 }

@@ -163,11 +163,11 @@
                             		<span>You gotta rub it if you wanna have it</span>
                             	</h3>
                                
-                                <p><a href="#login" class=" slider login-window btn btn-system btn-large">Login</a>
+                                <p><a href="Login.aspx" class=" slider login-window btn btn-system btn-large">Login</a>
                                 
 
                                 
-                                <a href="#" class="slider login-window btn btn-system btn-large">Sign up</a>
+                                <a href="Registration.aspx" class="slider login-window btn btn-system btn-large">Sign up</a>
 
                                 
                                 </p>
@@ -217,7 +217,7 @@
                         </div>
                         <div class="service-content">
                             <h4>Grant your friends' wishes</h4>
-                            <p>Make them happy.</p>
+                            <p>Be a genie!</p>
                         </div>
                     </div>
                     <!-- End Service Icon 3 -->
@@ -228,7 +228,7 @@
                             <i class="fa fa-question-circle icon-large"></i>
                         </div>
                         <div class="service-content">
-                            <h4>!!!!</h4>
+                            <h4></h4>
                             <p>Ano ilalagay dito???</p>
                         </div>
                     </div>
